@@ -1,0 +1,34 @@
+{
+  "name": "sfdc-merge-workflow",
+  "version": "1.0.0",
+  "description": "Merger for *.workflow files",
+  "main": "index.js",
+  "bin": {
+    "smwf": "bin/smwf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baptistebieber/sfdc-merge-workflow.git"
+  },
+  "author": "Baptiste BIEBER <baptiste.bieber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "npm": "^6.0.1",
+    "xml2js": "^0.4.17",
+    "xmlbuilder": "^10.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "salesforce",
+    "cli",
+    "merge",
+    "workflow"
+  ],
+  "bugs": {
+    "url": "https://github.com/baptistebieber/sfdc-merge-workflow/issues"
+  },
+  "homepage": "https://github.com/baptistebieber/sfdc-merge-workflow#readme"
+}
