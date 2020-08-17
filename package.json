@@ -1,6 +1,6 @@
 {
   "name": "sfdc-merge-workflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merger for *.workflow files",
   "main": "index.js",
   "bin": {
